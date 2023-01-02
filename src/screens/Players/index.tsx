@@ -49,7 +49,6 @@ export function Players(){
       }
     }
   }
-
   return (
     <Container>
       <Header showBackButton />
