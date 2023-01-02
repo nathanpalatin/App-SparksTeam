@@ -20,6 +20,7 @@ export const Form = styled.View`
 export const HeaderList = styled.View`
   flex-direction: row;
   width: 100%;
+  align-items: center;
   margin: 32px 0 12px;
 `;
 
