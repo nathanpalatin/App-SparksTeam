@@ -30,4 +30,5 @@ export const NumbersOfPlayers = styled.Text`
     font-family: ${theme.FONT_FAMILY.BOLD};
     font-size: ${theme.FONT_SIZE.SM}px;
   `};
+    margin-left: 20px;
 `;
