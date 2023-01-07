@@ -52,6 +52,7 @@ export function NewGroup(){
           keyboardAppearance="dark"
           placeholder="Nome da turma"
           onChangeText={setGroup}
+          autoCorrect={false}
          />
     
         <Button
